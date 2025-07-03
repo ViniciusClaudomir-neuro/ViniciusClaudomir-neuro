@@ -1,10 +1,6 @@
-### Olá, Meu nome é Vinicius :)
+###                          Olá, Meu nome é Vinicius :)
 
-<img src="https://media.giphy.com/media/tHufwMDTUi20E/source.gif" width="280" height="280" align="right"></img>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05eHNuYnprNzhjMHZoOHFidHVjcjU2cGV0eXIxeXFxaGFycWE2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTgmFytUwwHLaMahU1/giphy.gif" width="480" height="480" align="left"></img>
 
-### 🤝 Social media
-<a href="https://linkedin.com/in/vinicius-claudomir-26026017a">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
  
  
